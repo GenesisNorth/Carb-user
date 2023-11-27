@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1759831562",
+    "project_id": "carb-49c8c",
+    "storage_bucket": "carb-49c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1759831562:android:558ffafa79ab70a8f021f3",
+        "android_client_info": {
+          "package_name": "com.carbmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdztRwUooQDXGgqpNlggnqsm4nodxfng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
